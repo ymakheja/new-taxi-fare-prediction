@@ -1,5 +1,5 @@
-# kaggle-new-york-city-taxi-fare-prediction
-Solution of the New York City Taxi Fare Prediction competition of Kaggle.
+# new-york-city-taxi-fare-prediction
+Solution of the New York Taxi Fare Prediction competition of Kaggle.
 
 Competition link:
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
